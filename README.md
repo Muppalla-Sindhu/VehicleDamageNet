@@ -1,4 +1,4 @@
-# 🚗 Vehicle Damage Detection System (VehicleDamageNet)
+# 🚗 Vehicle Damage Detection System - VehicleDamageNet
 
 An AI-powered system for automated vehicle damage detection, classification, severity analysis, and repair cost estimation using YOLOv8 and Computer Vision.
 
